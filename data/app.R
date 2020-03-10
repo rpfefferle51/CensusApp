@@ -56,3 +56,6 @@ server <- function(input, output) {
 
 # Run app ----
 shinyApp(ui, server)
+
+
+runGitHub( "CensusApp", "rpfefferle51")
